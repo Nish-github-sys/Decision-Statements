@@ -188,3 +188,38 @@ int main() {
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+-->Program-1:
+Enter a number:2
+Number is EVEN.
+Enter a number:3
+Number is ODD.
+
+-->Program-2:
+Enter a Character:a
+Character is a VOWEL.
+Enter a Character:n
+Character is a CONSONANT.
+
+-->Program-3:
+Enter Num1:3
+Enter Num2:4
+Enter Num3:5
+Num3 is LARGEST.
+
+-->Program-4:
+Enter your Birthday Month:8
+August
+
+-->Program-5:
+Enter Num1:2
+Enter Num2:3
+Enter math operation to be performed:
+1. Addition
+ 2. Subtraction
+ 3. Division
+ 4. Multiplication
+4
+Multiplication of 2 and 3 is:6*/
